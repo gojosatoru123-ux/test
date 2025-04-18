@@ -1,28 +1,10 @@
-# test
-test
-### 📈 GitHub Repo Activity
+# GitHub Repository Stats
 
-#### 🔄 Weekly Commits
-![Commits](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/commits-graph)
+## Commit Activity (Monthly)
+![Commits Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/commits-graph)
 
-#### 🧮 Code Frequency (Additions/Deletions)
-![Code Frequency](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/code-frequency-graph)
+## Code Frequency (Additions & Deletions)
+![Code Frequency Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/code-frequency-graph)
 
-#### 👥 Top Contributors
-![Contributors](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/contributors-graph)
-
-
-
-
-
-
-### 🐧 Linux Kernel Stats
-
-#### 🔄 Weekly Commits
-![Commits](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/torvalds/linux/commits-graph)
-
-#### 🧮 Code Frequency
-![Code Frequency](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/torvalds/linux/code-frequency-graph)
-
-#### 👥 Top Contributors
-![Contributors](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/torvalds/linux/contributors-graph)
+## Top Contributors
+![Contributors Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/contributors-graph)
