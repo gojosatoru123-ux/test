@@ -1,10 +1,10 @@
 # GitHub Repository Stats
 
 ## Commit Activity (Monthly)
-![Commits Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/commits-graph)
+![Commits Graph](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/commits-graph)
 
 ## Code Frequency (Additions & Deletions)
-![Code Frequency Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/code-frequency-graph)
+![Code Frequency Graph](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/code-frequency-graph)
 
 ## Top Contributors
-![Contributors Graph](http://localhost:5000/repo/Balaji-Nirmit/OutSourcery/contributors-graph)
+![Contributors Graph](https://821c2c59-e33c-475c-b907-5a13225b6f26-00-377eci3ap8iyx.sisko.replit.dev/repo/Balaji-Nirmit/OutSourcery/contributors-graph)
